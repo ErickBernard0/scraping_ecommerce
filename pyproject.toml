@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "scraping-ecommerce"
 version = "0.1.0"
-description = "Web Scraping of product prices from the web"
+description = "Web Scraping of web product data"
 authors = ["Erick Bernardo <contato.bernardo25@gmail.com>"]
 readme = "README.md"
 
