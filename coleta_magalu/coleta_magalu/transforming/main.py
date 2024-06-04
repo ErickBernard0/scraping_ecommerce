@@ -25,3 +25,5 @@ df_data.to_sql('products_magalu', conn, if_exists='replace', index=False)
 
 # close conection to db
 conn.close()
+
+print(df_data)
